@@ -38,6 +38,7 @@ public class MemberTreeSetTest {
 //		memberTreeSet.addMember(memberKim);
 //		memberTreeSet.addMember(memberKang);
 //		memberTreeSet.addMember(memberHong);
+		
 //		
 //		memberTreeSet.showAllMember();
 //		memberTreeSet.removeMember(memberKim.getMemberId());
